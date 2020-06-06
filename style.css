@@ -1,0 +1,9 @@
+body{
+    background-color: slategray;
+}
+.foot{
+    margin-top: 30px;
+    line-height: 50px;
+    background-color: sienna;
+    text-align: center;
+}
